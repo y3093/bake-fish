@@ -2,6 +2,8 @@
 
 已经是旧版开发游戏了，现在开发Cocos2d游戏请使用Cocos Creator开发。代码可git clone或download到本地，直接运行即可。
 
+[Demo点此浏览](https://y3093.github.io/bake-fish/)
+
 ### 项目文件概览
 > <dl>
 >    <dt>js   // 存放游戏脚本js</dt>
@@ -14,7 +16,6 @@
 >    <dd>...</dd>
 >    <dt>index.html // 游戏访问入口/页面</dt>
 >  </dl>
-
 
 
 ### 游戏资源文件说明
@@ -30,5 +31,7 @@ Cocos2d游戏中的plist文件可以使用TexturePacker工具（收费）生成�
 ### 其他：
 
 [旧版游戏引擎文件下载（自备梯子）](https://code.google.com/archive/p/cocos2d-x/downloads)
+
 [Cocos2d-js API文档](http://www.cocos2d-x.org/reference/html5-js/V3.0/index.html)
+
 [Cocos2dx官网](http://www.cocos2d-x.org/)
